@@ -1,2 +1,19 @@
-# idea files
-.idea
+#Ignore list for WebProject
+/.gradle
+/.idea
+/build
+/out
+/classes
+/gradle
+/temp
+gradlew
+gradlew.bat
+*.class
+*.iml
+*.log
+/.project
+/.classpath
+/bin
+/.settings
+/src/main/resources/stash/*
+.DS_Store
